@@ -3,16 +3,16 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "react": "^18.0.0",  // Ensure React and other core libraries are up-to-date
+    "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-scripts": "5.0.0",
-    "@aws-amplify/ui-react": "^3.0.0",  // Updated version of Amplify UI
-    "rimraf": "^4.0.0",  // Update rimraf to latest version
-    "svgo": "^2.8.0",  // Update svgo to latest version
-    "@babel/plugin-transform-private-methods": "^7.22.5",  // Replace with the new Babel plugin
-    "@babel/plugin-transform-optional-chaining": "^7.22.5",  // Replace optional chaining plugin
-    "@babel/plugin-transform-numeric-separator": "^7.22.5",  // Replace numeric separator plugin
-    "eslint": "^8.57.0"  // Update ESLint to the latest supported version
+    "@aws-amplify/ui-react": "^3.0.0",
+    "rimraf": "^4.0.0", 
+    "svgo": "^2.8.0",  
+    "@babel/plugin-transform-private-methods": "^7.22.5",  
+    "@babel/plugin-transform-optional-chaining": "^7.22.5",  
+    "@babel/plugin-transform-numeric-separator": "^7.22.5",  
+    "eslint": "^8.57.0"  
   },
   "scripts": {
     "start": "react-scripts start",
