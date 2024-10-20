@@ -1,0 +1,4 @@
+node_modules/
+build/
+aws-exports.js
+amplify.yml
