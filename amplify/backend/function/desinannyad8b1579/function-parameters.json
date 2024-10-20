@@ -1,0 +1,38 @@
+{
+  "permissions": {
+    "api": {
+      "api84ccf73a": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "auth": {
+      "desinannyd190de0c": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "function": {
+      "desinannybec30ba7": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    }
+  },
+  "lambdaLayers": [],
+  "environmentVariableList": [
+    {
+      "cloudFormationParameterName": "9",
+      "environmentVariableName": "9"
+    }
+  ],
+  "secretNames": [
+    "1"
+  ]
+}
